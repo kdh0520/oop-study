@@ -24,13 +24,13 @@
 
 |일정|주제|담당자|
 |:---|:---|:---|
-|1주차|01장: 협력하는 객체들의 공동체|노지선|
-|2주차|02장: 이상한 나라의 객체|윤기돈|
-|3주차|03장: 타입과 추상화||
-|4주차|04장: 역할, 책임, 협력||
-|5주차|05장: 책임과 메세지|노지선|
-|6주차|06장: 객체 지도|윤기돈|
-|7주차|07장: 함께 모으기||
+|1주차|01장: 협력하는 객체들의 공동체|[@snanoh](https://github.com/snanoh)|
+|2주차|02장: 이상한 나라의 객체|[@gdyoon](https://github.com/gdyoon)|
+|3주차|03장: 타입과 추상화|[@kdh0520](https://github.com/kdh0520)|
+|4주차|04장: 역할, 책임, 협력|[@daeul-jung](https://github.com/daeul-jung)|
+|5주차|05장: 책임과 메세지|[@snanoh](https://github.com/snanoh)|
+|6주차|06장: 객체 지도|[@gdyoon](https://github.com/gdyoon)|
+|7주차|07장: 함께 모으기|[@kdh0520](https://github.com/kdh0520)|
 
 
 ## 진행 방식 🎇
@@ -41,8 +41,8 @@
 
 ## 참여 인원 🧑‍🤝‍🧑
 
-* 노지선
-* 정다을
-* 김동희
-* 윤기돈
+* [@snanoh](https://github.com/snanoh)
+* [@daeul-jung](https://github.com/daeul-jung)
+* [@kdh0520](https://github.com/kdh0520)
+* [@gdyoon](https://github.com/gdyoon)
 
