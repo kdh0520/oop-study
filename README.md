@@ -1,7 +1,3 @@
-<style type='text/css'>
-  h1, h2 { border-bottom: none; }
-</style>
-
 # 객체지향의 사실과 오해 :books:
 
 <br>
@@ -21,9 +17,12 @@
 
 ## 일정
 
+## 진행 방식
 
-## 구성원
+## 참여 인원
 
-* @snanoh
-* 
+* 노지선
+* 정다을
+* 김동희
+* 윤기돈
 
