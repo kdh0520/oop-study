@@ -1,3 +1,7 @@
+<style type='text/css'>
+  h1, h2 { border-bottom: none; }
+</style>
+
 # 객체지향의 사실과 오해 :books:
 
 <br>
@@ -21,4 +25,5 @@
 ## 구성원
 
 * @snanoh
+* 
 
